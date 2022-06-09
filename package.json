@@ -1,0 +1,26 @@
+{
+  "name": "core-algorithm-word-search",
+  "version": "1.0.0",
+  "description": "В этой задаче нужно будет написать алгоритм поиска, который скажет, можно ли найти входное слово в головоломке поиска слов, которая тоже подается функции на вход.",
+  "main": "wordSearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rundomhaze/core-algorithm-word-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rundomhaze/core-algorithm-word-search/issues"
+  },
+  "homepage": "https://github.com/Rundomhaze/core-algorithm-word-search#readme",
+  "devDependencies": {
+    "eslint": "^8.17.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^28.1.1"
+  }
+}
